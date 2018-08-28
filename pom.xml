@@ -53,7 +53,7 @@
   <dependency>
    <groupId>org.codehaus.plexus</groupId>
    <artifactId>plexus-resources</artifactId>
-   <version>1.0-alpha-7</version>
+   <version>1.1.0</version>
   </dependency>
 
   <dependency>
@@ -171,7 +171,7 @@
           </goals>
          </pluginExecutionFilter>
          <action>
-          <ignore />
+          <ignore/>
          </action>
         </pluginExecution>
         <pluginExecution>
@@ -185,7 +185,7 @@
           </goals>
          </pluginExecutionFilter>
          <action>
-          <ignore></ignore>
+          <ignore/>
          </action>
         </pluginExecution>
        </pluginExecutions>
